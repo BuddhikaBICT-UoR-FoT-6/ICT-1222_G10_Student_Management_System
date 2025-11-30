@@ -1,0 +1,68 @@
+# Database credentials and sensitive files
+*.env
+config.php
+database_config.ini
+
+# Backup files
+*.sql.backup
+*.bak
+*_backup_*
+
+# Log files
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+~*
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# MySQL specific
+*.frm
+*.ibd
+*.MYD
+*.MYI
+
+# Documentation build files
+docs/_build/
+docs/build/
+
+# Test files
+test_data/
+test_results/
+
+# Personal notes and drafts
+notes.txt
+draft_*
+personal_*
+
+# Compressed files
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# Large sample data files (keep smaller samples)
+large_sample_data/
+bulk_data/
+
+# Sensitive information
+passwords.txt
+credentials.txt
+user_list.txt
