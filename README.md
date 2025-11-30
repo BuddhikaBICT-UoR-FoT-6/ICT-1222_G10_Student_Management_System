@@ -179,27 +179,3 @@ CALL stud_count('ICT');
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Authors
-
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
-
-## 🙏 Acknowledgments
-
-- Faculty of Technology for project requirements
-- MySQL documentation and community
-- Contributors and testers
-
-## 📞 Support
-
-For support and questions:
-- Create an issue in this repository
-- Contact: your.email@example.com
-
----
-
-**Note**: This system is designed for educational purposes and should be properly secured before production use.
